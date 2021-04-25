@@ -1,0 +1,15 @@
+{
+  "name": "pipo_twitch_bot",
+  "version": "1.0.0",
+  "description": "Pipo is a simple twitch bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "acdrDev",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.8.3"
+  }
+}
