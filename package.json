@@ -4,12 +4,16 @@
   "description": "Pipo is a simple twitch bot.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ./src/pipo-bot.js"
   },
   "keywords": [],
   "author": "acdrDev",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "tmi.js": "^1.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
