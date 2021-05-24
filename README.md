@@ -1,5 +1,4 @@
 # Pipo bot
----
 Basic bot of twitch, this bot was made using [tmi.js](https://tmijs.com/).
 
 To start using it we first have to create an environment variables file (.env) and enter the following variables.
